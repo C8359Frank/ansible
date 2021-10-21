@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/env basher
 # Aggregate code coverage results for later processing.
 
 set -o pipefail -eu
